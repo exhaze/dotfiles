@@ -1,1 +1,8 @@
+# Aliases
+
 alias bs="boxer sync exhaze $@"
+alias ll="ls -Flh"
+alias l="ll"
+alias e="emacs ."
+alias ..="cd .."
+alias ...="cd ../.."
