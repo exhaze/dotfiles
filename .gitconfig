@@ -1,0 +1,12 @@
+[user]
+	name = Eugene Yaroslavtsev
+	email = exhaze@uber.com
+[branch]
+	autosetuprebase = always
+	autosetupmerge = always
+[rerere]
+	enabled = true
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
+[push]
+	default = simple

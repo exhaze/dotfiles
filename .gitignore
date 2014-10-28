@@ -1,0 +1,47 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+env
+sdist
+develop-eggs
+.installed.cfg
+lib64
+__pycache__
+
+# Docs
+docs/_build/*
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+cover
+nosetests.xml
+
+# celery local DB
+celerybeat-schedule.db
+
+# Translations
+uberchange/translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Mac Finder
+.DS_Store
